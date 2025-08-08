@@ -147,6 +147,4 @@ Thumbs.db
 .env.local
 .env.production
 
-# Private data files
-private-data.md
-docs/nowpayments-private-data.md 
+ 
