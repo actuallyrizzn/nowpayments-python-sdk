@@ -145,4 +145,8 @@ Thumbs.db
 # Project specific
 *.log
 .env.local
-.env.production 
+.env.production
+
+# Private data files
+private-data.md
+docs/nowpayments-private-data.md 
